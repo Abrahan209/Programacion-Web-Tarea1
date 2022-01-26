@@ -1,0 +1,73 @@
+
+.nombre {
+			color: whitesmoke;
+			border-radius: 50px; size: 2px;
+			background-color: #407599;
+			margin: 0 auto;
+			width: 50%;
+			padding: 3px;
+			align-items: center;
+			text-align: center;		
+
+		}	
+.img {
+    border-radius: 150px;
+}
+.legend{
+			color:white;;
+			margin: 0 auto; 
+			width: 50%;
+			background-color: #407599;
+			border-radius: 5px;
+			padding: 2px;
+			text-align: center;
+		}		
+.contacto {margin:0 auto;
+			width: 35%;
+			border-radius: 60px;
+			border-width: 5px;
+			border-color: black;
+			color: black;
+			padding: 5px;}
+			
+.hobbies {margin:0 auto;
+			width: 35%;
+			border-radius: 60px;
+			border-width: 5px;
+			border-color: black;
+			color: black;
+		}
+.contenido {margin:0 auto;
+			width: 35%;
+			border-radius: 60px;
+			border-width: 5px;
+			border-color: black;
+			color: black;
+		}
+		
+.uno {
+			display: flex;
+			justify-content: space-around;
+
+		}	
+.dos {
+			display: flex;
+			justify-content: space-around;
+
+		}	
+
+.video {
+			border-radius: 50px; size: 2px;
+			margin: 0 auto;
+			width: 80%;
+			padding: 5px;
+			align-items: center;
+			text-align: center;
+			color: black ;
+			border-width: 5px;
+			border-color: black;
+		}
+.body {
+			background:url(fondo2.jpg);
+			background-size:cover;
+		}
